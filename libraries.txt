@@ -1,0 +1,10 @@
+requests
+bs4
+json
+pandas
+matplotlib.pyplot
+re
+numpy
+geopy
+folium
+nltk
